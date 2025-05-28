@@ -1,0 +1,63 @@
+# === UNITY ===
+
+# Archivos generados automáticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Cache del paquete de Unity
+[Pp]ackages/com.unity.package-manager-ui/
+
+# Cache local del Package Manager
+[Pp]ackages/packages-lock.json
+
+# Archivos de configuración del usuario (no necesarios para otros)
+UserSettings/
+
+# Archivos personales o del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de Visual Studio / Rider / JetBrains
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Compilaciones móviles y ejecutables
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# Archivos de crash y reportes de Unity
+sysinfo.txt
+*.stacktrace
+
+# Archivos temporales de edición
+*.bak
+*.old
+*.orig
+*.tmp
+
+# Otros archivos innecesarios
+.vscode/
+.idea/
+*.log
+
+# Archivos personales de Git (por si usas estas herramientas)
+*.patch
+*.diff
