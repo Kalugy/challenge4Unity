@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 public class SpawnManager : MonoBehaviour
@@ -72,4 +73,10 @@ public class SpawnManager : MonoBehaviour
         }
 
     }
+
+    public void ChangeScene()
+    {
+        SceneManager.LoadScene("Challenge 4");
+    }
+
 }
