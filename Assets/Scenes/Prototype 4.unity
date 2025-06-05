@@ -1065,6 +1065,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   hasPowerUp: 0
+  projectilePowerUp: 0
   powerUpIndicator: {fileID: 366711855}
   gameOver: 0
   Uicanvas: {fileID: 1691299813}
@@ -1589,11 +1590,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 549bd0b8e3487f74799cef4b984aee02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 5723636422942231091, guid: f947b0c638d709541969756a876d6de6, type: 3}
+  enemyPrefab:
+  - {fileID: 5723636422942231091, guid: f947b0c638d709541969756a876d6de6, type: 3}
+  - {fileID: 5723636422942231091, guid: ad7695f2ec30b9c40b43401f5a0cc2a2, type: 3}
   enemyCount: 0
   waveNumber: 1
-  powerupPrefab: {fileID: 4123855881081782187, guid: 6208cfe19bdcb924380daf96b29a90b6, type: 3}
+  powerupPrefab:
+  - {fileID: 4123855881081782187, guid: 6208cfe19bdcb924380daf96b29a90b6, type: 3}
+  - {fileID: 4123855881081782187, guid: 7e27fb656a6061b4b9f8109ec275e5ef, type: 3}
   playerControllerScript: {fileID: 1218088865}
+  homingProjectilePrefab: {fileID: 7516539294617797847, guid: 47a3b15fb5377ed48a4f5928f244c27f, type: 3}
 --- !u!4 &1921477075
 Transform:
   m_ObjectHideFlags: 0

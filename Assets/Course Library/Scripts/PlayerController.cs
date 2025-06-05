@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody playerRb;
     private GameObject focalPoint;
     public bool hasPowerUp;
+    public bool projectilePowerUp = false;
     private float powerUpStrength = 15f;
     public GameObject powerUpIndicator;
     public bool gameOver = false;
@@ -37,6 +38,11 @@ public class PlayerController : MonoBehaviour
             playerRb.linearVelocity = Vector3.zero;
             playerRb.angularVelocity = Vector3.zero;
         }
+
+        if (projectilePowerUp && hasPowerUp && Input.GetKeyDown(KeyCode.X))
+        {
+            spawnControllerScript.FireProjectiles(gameObject);
+        }
     }
 
     public void Restart()
@@ -55,6 +61,15 @@ public class PlayerController : MonoBehaviour
             powerUpIndicator.gameObject.SetActive(true);
             Destroy(other.gameObject);
             StartCoroutine(PowerupCountdownRoutine());
+        }
+        if (other.CompareTag("ProjectilesPowerUp"))
+        {
+            hasPowerUp = true;
+            projectilePowerUp = true;
+            powerUpIndicator.gameObject.SetActive(true);
+            Destroy(other.gameObject);
+            StartCoroutine(PowerupCountdownRoutine());
+
         }
     }
 

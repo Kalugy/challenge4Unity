@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "M:\\GenerationColombia\\Projects\\Prototype44\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|m:\\generationcolombia\\projects\\prototype44\\assets\\course library\\scripts\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|m:\\generationcolombia\\projects\\prototype44\\assets\\course library\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\course library\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\course library\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\course library\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F4BFD1-756D-08DE-D966-A8E90F7121AC}|Assembly-CSharp.csproj|M:\\GenerationColombia\\Projects\\Prototype44\\assets\\course library\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,23 +46,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HomingProjectile.cs",
+              "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\HomingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\HomingProjectile.cs",
+              "ToolTip": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\HomingProjectile.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\HomingProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:56:19.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EnemyX.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Challenge 4\\Scripts\\EnemyX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
               "ToolTip": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Challenge 4\\Scripts\\EnemyX.cs",
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA9AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T15:43:50.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SpawnManagerX.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "PlayerControllerX.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
@@ -82,19 +99,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\Enemy.cs",
               "ToolTip": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T16:02:48.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Game.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\Game.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\Game.cs",
@@ -106,19 +123,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\PlayerController.cs",
               "ToolTip": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T15:31:31.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "RotateCamera.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\RotateCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\RotateCamera.cs",
@@ -130,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "ToolTip": "M:\\GenerationColombia\\Projects\\Prototype44\\Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\SpawnManager.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwE4AAAArAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T16:22:54.717Z",
               "EditorCaption": ""
